@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ai": "^3.0.0",
+    "@ai-sdk/openai": "^0.0.1",
+    "framer-motion": "^10.0.0",
+    "lucide-react": "^0.300.0",
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
